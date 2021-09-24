@@ -56,7 +56,6 @@
   parenleft   parenright
 ];
 @CASE_NONDELIM_L = [
-  at
   multiply
   minus
   plus
@@ -108,7 +107,6 @@
   parenleft.case   parenright.case
 ];
 @CASE_NONDELIM_R = [
-  at.case
   multiply.case
   minus.case
   plus.case
